@@ -10,7 +10,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on DatabaseDeveloper
 - 🤔 I’m looking for help with Java programming.
 - 💬 Ask me about Music in India
-- 📫 How to reach me:
 - 😄 Pronouns: she/Her.
 - 
 -->
